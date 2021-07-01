@@ -2,7 +2,7 @@
 # Seja Bem vindo!
 
 
-## Oiee, me chamo Ana Gabriele! Moro no interior do RJ e estou atualmente cursando o 2° ano do EM junto com Técnico em Desenvolvimento de Sistemas na Firjan SENAI😛
+## Olá, me chamo Ana Gabriele! Moro no interior do RJ e estou atualmente cursando o 2° ano do EM junto com Técnico em Desenvolvimento de Sistemas na Firjan SENAI
 ###
 - 🐍 PYTHON
 - 💫 08/05/2004
@@ -17,8 +17,8 @@
 &nbsp; <a href="https://www.gmail.com/anagabrielecnp/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
 
 ---
-## *O Sucesso é a soma de Pequenos Esforços repetidos Dia Após Dia...*
-![Github stats](https://github-readme-stats.vercel.app/api?username=anagabrielecnp&count_private=true&show_icons=true&theme=dracula)
+### *O Sucesso é a soma de Pequenos Esforços repetidos Dia Após Dia...*
+
 
 ---
 

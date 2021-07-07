@@ -4,10 +4,7 @@
 
 ## Olá, me chamo Ana Gabriele! Moro no interior do RJ e estou atualmente cursando o 2° ano do EM junto com Técnico em Desenvolvimento de Sistemas na Firjan SENAI
 ###
-- 🐍 PYTHON
-- 💫 08/05/2004
-- 📍 Resende - RJ
-- 🎶 Organista - CCB
+
 ###
 
 <p>
